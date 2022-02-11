@@ -1,84 +1,84 @@
 @font-face {
   font-family: "Belgravia";
-  src: url("/fonts/Belgravia.ttf") format("truetype");
+  src: url("./Fonts/Belgravia.ttf") format("truetype");
   font-style: normal;
 }
 
 @font-face {
   font-family: "Eveleth-Bold";
-  src: url("/fonts/Eveleth_Bold.otf") format("opentype");
+  src: url("./Fonts/Eveleth_Bold.otf") format("opentype");
   font-style: normal;
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Eveleth-light";
-  src: url("/fonts/Eveleth_Dot_W01_Light.otf") format("opentype");
+  src: url("./Fonts/Eveleth_Dot_W01_Light.otf") format("opentype");
   font-style: normal;
   font-weight: light;
 }
 
 @font-face {
   font-family: "Eveleth-Thin";
-  src: url("/fonts/Eveleth_W01_Thin.otf") format("opentype");
+  src: url("./Fonts/Eveleth_W01_Thin.otf") format("opentype");
   font-style: normal;
   font-weight: 100;
 }
 
 @font-face {
   font-family: "Eveleth-Regular";
-  src: url("/fonts/Eveleth_W01_Regular.otf") format("opentype");
+  src: url("./Fonts/Eveleth_W01_Regular.otf") format("opentype");
   font-style: normal;
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Eveleth-Regular";
-  src: url("/fonts/Eveleth_W01_Regular.ttf") format("truetype");
+  src: url("./Fonts/Eveleth_W01_Regular.ttf") format("truetype");
   font-style: normal;
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Gotham-Black";
-  src: url("/fonts/Gotham_Black.otf") format("opentype");
+  src: url("./Fonts/Gotham_Black.otf") format("opentype");
   font-style: normal;
   font-weight: 900;
 }
 
 @font-face {
   font-family: "Gotham-Bold";
-  src: url("/fonts/Gotham_Bold.otf") format("opentype");
+  src: url("./Fonts/Gotham_Bold.otf") format("opentype");
   font-style: normal;
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Gotham-Narrow-Book";
-  src: url("/fonts/Gotham_Narrow_Book.otf") format("opentype");
+  src: url("./Fonts/Gotham_Narrow_Book.otf") format("opentype");
   font-style: normal;
 }
 
 @font-face {
   font-family: "Gotham-Narrow-Medium";
-  src: url("/fonts/Gotham_Narrow_Medium.otf") format("opentype");
+  src: url("./Fonts/Gotham_Narrow_Medium.otf") format("opentype");
   font-style: normal;
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Raleway-Medium";
-  src: url("/Fonts/static/Raleway-Medium.ttf") format("truetype");
+  src: url("./Fonts/static/Raleway-Medium.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Raleway-Regular";
-  src: url("/Fonts/static/Raleway-Regular.ttf") format("truetype");
+  src: url("./Fonts/static/Raleway-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "PTSans-Regular";
-  src: url("/Fonts/PT-sans/PTSans-Regular.ttf") format("truetype");
+  src: url("./Fonts/PT-sans/PTSans-Regular.ttf") format("truetype");
 }
 
 *,
